@@ -24,6 +24,7 @@ div {
 #img-circle {
   width: 160px;
   border-radius: 50%;
+  box-shadow: 2px 2px 3px 2px grey;
 }
 
 h1 {
