@@ -1,0 +1,122 @@
+div {
+    display: block;
+}
+
+.container {
+    width: 500px;
+    margin: 30px auto;
+    box-shadow: 1px 1px 2px #F4F5F5;
+    background-color: #E9EAEB;
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    box-shadow: 0px 1px 2px 0px rgb(230,230,230);
+}
+
+.text-center {
+    text-align: center;
+}
+
+#img-circle {
+  width: 160px;
+  border-radius: 50%;
+}
+
+h1 {
+  font-family: 'Merriweather', sans-serif;
+  font-weight: bold;
+}
+
+h2 {
+  font-family: 'Noticia Text', sans-serif;
+  color: rgb(40,40,40);
+  font-size: 18px;
+  font-weight: 700;
+}
+
+p {
+  font-family: 'Barlow', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: #D496A7;
+}
+
+.btn {
+  background-color: #D496A7;
+  font-weight: 500;
+  color: white;
+  padding: 10px;
+  border-radius: 3px;
+  border: 2px solid #D496A7
+}
+
+.btn:hover {
+  background-color: white ;
+  color: black;
+}
+
+.list-inline {
+    padding-left: 0;
+}
+
+.list-inline li {
+    display: inline-block;
+    padding: 20px;
+}
+
+li i {
+  font-size: 20px;
+  font-family: 'Barlow', sans-serif;
+  font-weight: medium;
+}
+
+li i:hover {
+  color :#E36588;
+}
+
+h3 {
+  font-family: 'Merriweather', sans-serif;
+}
+
+#movies {
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 1.6em;
+  text-align: left;
+}
+
+.img-squared {
+  width: 130px;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+p a {
+  color: black;
+  font-weight: 700;
+}
+
+p a:hover {
+  background-color: #EFABBE;
+}
+
+body{
+  background-color: #E9EAEB;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 1.6em;
+}
+
+
+
+
+
